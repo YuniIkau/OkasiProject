@@ -1,0 +1,14 @@
+{
+    "name": "MainGame",
+    "references": [
+        "ParameterTable"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

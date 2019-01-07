@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: ff454098764a0fd4a972b3b3cda24e45
+timeCreated: 1542836278
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: controller10
+    100004: controller11
+    100006: controller13
+    100008: controller14
+    100010: controller15
+    100012: controller16
+    100014: controller17
+    100016: controller18
+    100018: controller19
+    100020: controller2
+    100022: controller20
+    100024: controller3
+    100026: controller4
+    100028: controller5
+    100030: controller6
+    100032: controller7
+    100034: controller8
+    100036: controller9
+    100038: controllers
+    100040: group10
+    100042: group6
+    100044: group8
+    100046: group9
+    100048: helperArrow1
+    100050: helperArrow2
+    100052: helperArrow3
+    100054: helperArrow4
+    100056: helperArrowsGRP
+    100058: joint10
+    100060: joint11
+    100062: joint12
+    100064: joint13
+    100066: joint14
+    100068: joint14 1
+    100070: joint15
+    100072: joint15 1
+    100074: joint16
+    100076: joint16 1
+    100078: joint17
+    100080: joint17 1
+    100082: joint18
+    100084: joint18 1
+    100086: joint19
+    100088: joint19 1
+    100090: joint2
+    100092: joint20
+    100094: joint20 1
+    100096: joint21
+    100098: joint21 1
+    100100: joint22
+    100102: joint22 1
+    100104: joint23
+    100106: joint23 1
+    100108: joint24
+    100110: joint24 1
+    100112: joint25
+    100114: joint25 1
+    100116: joint31
+    100118: joint37
+    100120: joint4
+    100122: joint43
+    100124: joint44
+    100126: joint45
+    100128: joint45 1
+    100130: joint48
+    100132: joint49
+    100134: joint5
+    100136: joint50
+    100138: joint50 1
+    100140: joint53
+    100142: joint54
+    100144: joint6
+    100146: joint7
+    100148: noTouch1
+    100150: noTouch2
+    100152: noTouch3
+    100154: noTouch4
+    100156: noTouch5
+    100158: noTouch6
+    100160: nurbsCircle1
+    100162: nurbsCircle2
+    100164: nurbsCircle3
+    100166: polySurface5
+    100168: root
+    400000: //RootNode
+    400002: controller10
+    400004: controller11
+    400006: controller13
+    400008: controller14
+    400010: controller15
+    400012: controller16
+    400014: controller17
+    400016: controller18
+    400018: controller19
+    400020: controller2
+    400022: controller20
+    400024: controller3
+    400026: controller4
+    400028: controller5
+    400030: controller6
+    400032: controller7
+    400034: controller8
+    400036: controller9
+    400038: controllers
+    400040: group10
+    400042: group6
+    400044: group8
+    400046: group9
+    400048: helperArrow1
+    400050: helperArrow2
+    400052: helperArrow3
+    400054: helperArrow4
+    400056: helperArrowsGRP
+    400058: joint10
+    400060: joint11
+    400062: joint12
+    400064: joint13
+    400066: joint14
+    400068: joint14 1
+    400070: joint15
+    400072: joint15 1
+    400074: joint16
+    400076: joint16 1
+    400078: joint17
+    400080: joint17 1
+    400082: joint18
+    400084: joint18 1
+    400086: joint19
+    400088: joint19 1
+    400090: joint2
+    400092: joint20
+    400094: joint20 1
+    400096: joint21
+    400098: joint21 1
+    400100: joint22
+    400102: joint22 1
+    400104: joint23
+    400106: joint23 1
+    400108: joint24
+    400110: joint24 1
+    400112: joint25
+    400114: joint25 1
+    400116: joint31
+    400118: joint37
+    400120: joint4
+    400122: joint43
+    400124: joint44
+    400126: joint45
+    400128: joint45 1
+    400130: joint48
+    400132: joint49
+    400134: joint5
+    400136: joint50
+    400138: joint50 1
+    400140: joint53
+    400142: joint54
+    400144: joint6
+    400146: joint7
+    400148: noTouch1
+    400150: noTouch2
+    400152: noTouch3
+    400154: noTouch4
+    400156: noTouch5
+    400158: noTouch6
+    400160: nurbsCircle1
+    400162: nurbsCircle2
+    400164: nurbsCircle3
+    400166: polySurface5
+    400168: root
+    2100000: lambert1
+    4300000: polySurface5
+    9500000: //RootNode
+    13700000: polySurface5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
